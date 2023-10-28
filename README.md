@@ -56,9 +56,9 @@ Vérification automatiquement votre schéma. Il détecte les erreurs dans la feu
 	6.11.1 - Option du CI
 	6.11.2 - Choisir 2 couches et les composants dessus et dessous car cela permet d’alléger le nombre de couches apparentes.
 	6.11.3 - Règles de conception
-Ce sont les classes de routage (Par exemple Eurocircuit pcb Calculator)
-C’est la technologie utilisée avec sa classification : de 3 à 9
-La classe 6 est utilisée par défaut.
+		Ce sont les classes de routage (Par exemple Eurocircuit pcb Calculator)
+		C’est la technologie utilisée avec sa classification : de 3 à 9
+		La classe 6 est utilisée par défaut.
 	6.12Les classes d’équipotentiels
 	6.12.1Classe dédiée aux signaux, classe dédiée aux alimentations, etc.
 

@@ -29,8 +29,7 @@ Vérification automatiquement votre schéma. Il détecte les erreurs dans la feu
 	4.2 - Ouvrir l’éditeur d’empreintes 
 	4.3 - Chercher les empreintes manquantes, ne pas hésiter à s’aider des datasheets
 	4.4 - Pour faire des recherches sur le net : par ex NE555 type:pdf (privilégiez les documents fourni pas le constructeur par ex : Texas Instrument au lieu de prendre chez AllDatasheet. 
-Les documents sont plus sûrs…
-
+		Les documents sont plus sûrs…
 	4.5 - Anticiper les diamètres des pattes de composants pour les perçages.
 	4.6 - Mettre les 3 couches :
 		→ F.Silks

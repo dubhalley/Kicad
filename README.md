@@ -1,3 +1,9 @@
+#On YouTube you'll find some nice videos which explain the step by step.
+
+
+https://m.youtube.com/watch?v=Nw_pxbOUWxw
+
+
 # Kicad_Method
 How to use kicad to realize modules
 

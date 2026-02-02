@@ -3,7 +3,7 @@
 1 - Infinity Modular 
 https://m.youtube.com/watch?v=neLJ1wQ8id0
 
-it's quite long videos, but yoùll see all the needed steps. 
+it's quite long videos, but youu'll see all the needed steps. 
 I don’t agree with the numbers of via's, but it works...
 
 2 - eurorack DIY
@@ -22,6 +22,9 @@ Hope yo him, i started to create my modules using Kicad.
 How to use kicad to realize modules
 
 PROCESS KICAD
+
+here you'll see all the steps to create a module. 
+I always use this steps by step to don’t forget something. 
 
 1 - Donner un nom de projet sans espaces ni accents
 

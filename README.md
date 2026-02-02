@@ -6,6 +6,17 @@ https://m.youtube.com/watch?v=neLJ1wQ8id0
 it's quite long videos, but yoùll see all the needed steps. 
 I don’t agree with the numbers of via's, but it works...
 
+2 - eurorack DIY
+https://m.youtube.com/watch?v=9E6jmYlPh7A
+
+a passive mult.
+
+3 - The bible in French 
+https://m.youtube.com/@EricPeronnin/videos
+
+Eric Peronnin is a french teacher of a University. 
+His videos is my starting point to learn Kicad.
+Hope yo him, i started to create my modules using Kicad. 
 
 # Kicad_Method
 How to use kicad to realize modules

@@ -1,7 +1,10 @@
-#On YouTube you'll find some nice videos which explain the step by step.
+# On YouTube you'll find some nice videos which explain the step by step.
 
+1 - Infinity Modular 
+https://m.youtube.com/watch?v=neLJ1wQ8id0
 
-https://m.youtube.com/watch?v=Nw_pxbOUWxw
+it's quite long videos, but yoùll see all the needed steps. 
+I don’t agree with the numbers of via's, but it works...
 
 
 # Kicad_Method

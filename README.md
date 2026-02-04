@@ -3,8 +3,8 @@
 1 - Infinity Modular 
 https://m.youtube.com/watch?v=neLJ1wQ8id0
 
-it's quite long videos, but youu'll see all the needed steps. 
-I don’t agree with the numbers of via's, but it works...
+it's quite long videos, but you'll see all the needed steps. 
+SoooOOoo many via's, but it works...
 
 2 - eurorack DIY
 https://m.youtube.com/watch?v=9E6jmYlPh7A

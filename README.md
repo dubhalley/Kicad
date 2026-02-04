@@ -11,12 +11,12 @@ https://m.youtube.com/watch?v=9E6jmYlPh7A
 
 a passive mult.
 
-3 - The bible in French 
+3 - The "high end" kicad teacher in French 
 https://m.youtube.com/@EricPeronnin/videos
 
 Eric Peronnin is a french teacher of a University. 
 His videos is my starting point to learn Kicad.
-Hope yo him, i started to create my modules using Kicad. 
+Hope to him, i started to create my modules using Kicad. 
 
 # Kicad_Method
 How to use kicad to realize modules
@@ -25,6 +25,8 @@ PROCESS KICAD
 
 here you'll see all the steps to create a module. 
 I always use this steps by step to don’t forget something. 
+
+Sorry it's in french ...
 
 1 - Donner un nom de projet sans espaces ni accents
 
